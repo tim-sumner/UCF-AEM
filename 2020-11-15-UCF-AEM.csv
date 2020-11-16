@@ -1,65 +1,65 @@
-forecast_date,target,target_end_date,location,type,quantile,value
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.025,812000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.025,804000
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.025,833000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.025,788000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.025,787000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.025,765000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.025,738000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.025,762000
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.1,820500
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.1,806500
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.1,834000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.1,805500
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.1,790500
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.1,771500
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.1,760500
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.1,770000
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.25,841000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.25,825000
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.25,837000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.25,849000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.25,805000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.25,784000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.25,845000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.25,896000
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.5,900000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.5,889000
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.5,866500
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.5,904000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.5,952000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.5,937000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.5,933500
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.5,1018500
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.75,988000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.75,958000
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.75,997000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.75,1000000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.75,995000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.75,1053000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.75,1051000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.75,1092000
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.9,1033000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.9,1106500
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.9,1141500
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.9,1103500
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.9,1063000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.9,1086000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.9,1169000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.9,1337500
-11/15/2020,1 wk ahead inc case,11/21/2020,US,quantile,0.975,1067000
-11/15/2020,2 wk ahead inc case,11/28/2020,US,quantile,0.975,1174000
-11/15/2020,3 wk ahead inc case,12/5/2020,US,quantile,0.975,1234000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,quantile,0.975,1198000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,quantile,0.975,1127000
-11/15/2020,6 wk ahead inc case,12/26/2020,US,quantile,0.975,1113000
-11/15/2020,7 wk ahead inc case,1/2/2021,US,quantile,0.975,1221000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,quantile,0.975,1447000
-11/15/2020,1 wk ahead inc case,11/21/2020,US,point,,913900
-11/15/2020,2 wk ahead inc case,11/28/2020,US,point,,914300
-11/15/2020,3 wk ahead inc case,12/5/2020,US,point,,929000
-11/15/2020,4 wk ahead inc case,12/12/2020,US,point,,925000
-11/15/2020,5 wk ahead inc case,12/19/2020,US,point,,926200
-11/15/2020,6 wk ahead inc case,12/26/2020,US,point,,931300
-11/15/2020,7 wk ahead inc case,1/2/2021,US,point,,952000
-11/15/2020,8 wk ahead inc case,1/9/2021,US,point,,1023300
+	forecast_date	target	target_end_date	location	type	quantile	value
+1	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.025	812000
+2	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.025	804000
+3	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.025	833000
+4	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.025	788000
+5	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.025	787000
+6	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.025	765000
+7	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.025	738000
+8	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.025	762000
+9	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.1	820500
+10	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.1	806500
+11	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.1	834000
+12	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.1	805500
+13	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.1	790500
+14	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.1	771500
+15	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.1	760500
+16	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.1	770000
+17	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.25	841000
+18	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.25	825000
+19	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.25	837000
+20	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.25	849000
+21	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.25	805000
+22	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.25	784000
+23	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.25	845000
+24	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.25	896000
+25	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.5	9.00E+05
+26	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.5	889000
+27	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.5	866500
+28	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.5	904000
+29	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.5	952000
+30	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.5	937000
+31	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.5	933500
+32	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.5	1018500
+33	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.75	988000
+34	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.75	958000
+35	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.75	997000
+36	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.75	1.00E+06
+37	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.75	995000
+38	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.75	1053000
+39	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.75	1051000
+40	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.75	1092000
+41	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.9	1033000
+42	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.9	1106500
+43	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.9	1141500
+44	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.9	1103500
+45	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.9	1063000
+46	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.9	1086000
+47	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.9	1169000
+48	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.9	1337500
+49	2020-11-15	1 wk ahead inc case	2020-11-21	US	quantile	0.975	1067000
+50	2020-11-15	2 wk ahead inc case	2020-11-28	US	quantile	0.975	1174000
+51	2020-11-15	3 wk ahead inc case	2020-12-05	US	quantile	0.975	1234000
+52	2020-11-15	4 wk ahead inc case	2020-12-12	US	quantile	0.975	1198000
+53	2020-11-15	5 wk ahead inc case	2020-12-19	US	quantile	0.975	1127000
+54	2020-11-15	6 wk ahead inc case	2020-12-26	US	quantile	0.975	1113000
+55	2020-11-15	7 wk ahead inc case	2021-01-02	US	quantile	0.975	1221000
+56	2020-11-15	8 wk ahead inc case	2021-01-09	US	quantile	0.975	1447000
+57	2020-11-15	1 wk ahead inc case	2020-11-21	US	point	NA	913900
+58	2020-11-15	2 wk ahead inc case	2020-11-28	US	point	NA	914300
+59	2020-11-15	3 wk ahead inc case	2020-12-05	US	point	NA	929000
+60	2020-11-15	4 wk ahead inc case	2020-12-12	US	point	NA	925000
+61	2020-11-15	5 wk ahead inc case	2020-12-19	US	point	NA	926200
+62	2020-11-15	6 wk ahead inc case	2020-12-26	US	point	NA	931300
+63	2020-11-15	7 wk ahead inc case	2021-01-02	US	point	NA	952000
+64	2020-11-15	8 wk ahead inc case	2021-01-09	US	point	NA	1023300
